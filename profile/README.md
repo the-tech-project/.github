@@ -7,4 +7,4 @@
 We build the flex business managing webapps and provide big data solutions to help your business make better data driven decisions for the future. The open-source technologies at the center of all our work help you unlock operational efficiency, develop new capabilities, remove vendor lock-in, reskill your teams, and reduce TCO. We provide solutions like _Data Migration_, _Data Analytics_, _Data Cleanup_, and many more data related oprations.
 
 <br/><br/>
-![Add a heading(1)](https://user-images.githubusercontent.com/25063903/162037395-20b7e6dc-1de2-4629-a52f-cbe5f39be90a.svg)
+![Add a heading(2)](https://user-images.githubusercontent.com/25063903/162051034-60b58be9-4277-4469-91e1-af1583556efa.gif)
