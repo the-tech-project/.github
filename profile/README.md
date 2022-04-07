@@ -19,6 +19,6 @@ Below are the solutions that we offer.
 | Other | <img height="30px" width="30px" src="https://user-images.githubusercontent.com/25063903/162298374-97ff9396-c2e5-49c8-ab7e-8448d874f4cd.svg"> <img height="30px" width="30px" src="https://user-images.githubusercontent.com/25063903/162300180-8090b24c-7b7f-45b2-9e23-ba935fabf157.svg"> <img height="30px" width="30px" src="https://user-images.githubusercontent.com/25063903/162301111-6eef53db-72fd-4d5b-b15d-fb89e4c3d97a.svg"> |
  -->
 
-<br/><br/>
+<br/>
 
 ![Add a heading(3)](https://user-images.githubusercontent.com/25063903/162057301-fa245412-96a9-44e8-93c5-fc26ce2db073.gif)
